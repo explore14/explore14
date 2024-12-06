@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sathwika
+- 👋 Hey, I’m Sathwika
 - 👀 I’m interested in web development, Machine Learning , exploring latest technologies and competitve coding 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on project involving springboot
